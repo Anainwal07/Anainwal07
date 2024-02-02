@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Anainwal07
 - 👀 I’m interested in Coding and Web development 
-- 🌱 I’m currently learning competetive Programming and web development
+- 🌱 I’m currently learning DSA and web development
 - 💞️ I’m looking to collaborate on any web designing project 
 - 📫 How to reach me .. just email me in the given email id given (ankit.nainwal.3150@gmail.com)
 
