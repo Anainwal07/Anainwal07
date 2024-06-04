@@ -2,7 +2,7 @@
 - 👀 I’m interested in Coding and Web development 
 - 🌱 I’m currently learning DSA and web development
 - 💞️ I’m looking to collaborate on any web designing project 
-- 📫 How to reach me .. just email me in the given email id given (ankit.nainwal.3150@gmail.com)
+- 📫 How to reach me .. just email me in the given email id  (ankit.nainwal.3150@gmail.com)
 
 <!---
 Anainwal07/Anainwal07 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
