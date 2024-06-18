@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Ankit Nainwal
+- 👋 Hi, I’m Ankit Nainwal .
 - 👀 I’m interested in Coding .
-- 🌱 I’m currently learning DSA and web development technologies
-- 💞️ I’m looking to collaborate on any web designing project 
+- 🌱 I’m currently learning DSA and web development technologies .
+- 💞️ I’m looking to collaborate on any web designing project .
 - 📫 How to reach me .. just email me in the given email id  (ankit.nainwal.3150@gmail.com)
 
 <!---
